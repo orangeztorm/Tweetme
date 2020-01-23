@@ -1,3 +1,2 @@
 # Tweetme
-Twitter_Clone
-A twitter clone built with Django
+A twitter clone built with Django 
