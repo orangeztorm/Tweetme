@@ -1,0 +1,9 @@
+django-crispy-forms==1.6.1
+django-filter==1.0.4
+Django==1.11.5
+djangorestframework==3.6.4
+Markdown==2.6.9
+pip==9.0.1
+pytz==2017.2
+setuptools==36.5.0
+wheel==0.30.0
