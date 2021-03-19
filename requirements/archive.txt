@@ -1,7 +1,7 @@
 django-crispy-forms==1.6.1
 django-filter==1.0.1
 Django==1.10.3
-djangorestframework==3.5.3
+djangorestframework==3.11.2
 Markdown==2.6.7
 pip==9.0.1
 pytz==2016.7
